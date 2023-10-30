@@ -66,7 +66,7 @@ In order to run this project you need:
 
 Clone the project into your desired folder by using this command:
 
-- `git clone https://github.com/sadaf-Daneshgar/decode_morse_code`
+- `git clone https://github.com/mryeminthu/enumerable.git`
 
 ### Install
 
