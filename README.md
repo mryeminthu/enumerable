@@ -21,7 +21,7 @@
   - [🔭 Future Features ](#future-features)
   - [🤝 Contributing ](#contributing)
   - [⭐️ Show your support ](#️support)
-  - [🙏 Acknowledgments ](#acknowledgments)
+  - [🙏 Acknowledgments ](#acknowledgements)
   - [📝 License ](#license)
 
 <!-- PROJECT DESCRIPTION -->
