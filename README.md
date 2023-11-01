@@ -17,12 +17,12 @@
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Install](#install)
-  - [👥 Authors ](#authors)
+  - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#future-features)
   - [🤝 Contributing ](#contributing)
-  - [⭐️ Show your support ](#️-show-your-support-)
-  - [🙏 Acknowledgments ](#acknowledgements)
-  - [📝 License ](#license)
+  - [⭐️ Show your support ](#️support)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -66,7 +66,7 @@ In order to run this project you need:
 
 Clone the project into your desired folder by using this command:
 
-- `git clone https://github.com/mryeminthu/enumerable.git`
+- `git clone https://github.com/sadaf-Daneshgar/decode_morse_code`
 
 ### Install
 
